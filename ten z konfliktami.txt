@@ -1,5 +1,5 @@
 To jest pierwsza linijka
-
+Tu bedzie konflikt
 To jest druga linijka 
 
 To jest trzecia linijka

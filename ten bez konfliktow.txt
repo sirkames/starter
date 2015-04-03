@@ -3,5 +3,5 @@ To jest pierwsza linijka
 To jest druga linijka 
 
 To jest trzecia linijka
-
+Tutaj nie bedzie konfliktow
 To jest czwarta linijka
